@@ -4,8 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krish19559&label=Profile%20views&color=0e75b6&style=flat" alt="krish19559" /> </p>
 
-- 🌱 I’m currently learning **Data Analysis, Python, HTML & CSS, JavaScript**
-
+- 🌱 Growing in Data & Business Analysis, Visualization, SQL, and Python
+  
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/krishna230](www.linkedin.com/in/krishna230)
 
 - 📫 How to reach me **krishna19559@gmail.com**
